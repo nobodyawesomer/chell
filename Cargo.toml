@@ -2,6 +2,7 @@
 name = "chell"
 version = "0.1.0"
 edition = "2021"
+description = "For now, a basic chat app. See README."
 repository = "https://github.com/nobodyawesomer/chell"
 license = "MIT"
 
